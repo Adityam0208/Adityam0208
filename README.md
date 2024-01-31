@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences https://tinyurl.com/AdityaMattaparthiResume
 
-- ⚡ Fun fact **: I am a serious teetotaler (Google for meaning)**
+- ⚡ Fun fact **: I have a strong intuition, and I also enjoy playing sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
