@@ -30,7 +30,7 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,aws,azure,eclipse,git,gcp,github,js,mongodb,postgres,sqlite,mysql,py,visualstudio,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,aws,azure,eclipse,git,gcp,github,js,mongodb,postgres,sqlite,mysql,py,visualstudio,html,css&perline=8)](https://skillicons.dev)
    
 
 
