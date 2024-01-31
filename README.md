@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mattaparthi.a@northeastern.edu**
 
-- 📄 Know about my experiences https://tinyurl.com/adityaresume
+- 📄 Know about my experiences https://tinyurl.com/AdityaMattaparthiResume
 
 - ⚡ Fun fact **: I am a serious teetotaler (Google for meaning)**
 
