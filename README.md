@@ -29,10 +29,10 @@
 <a href="https://linkedin.com/in/aditya-ma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Adityam0208" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
- <p>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
    
- </p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityam0208&show_icons=true&locale=en&layout=compact" alt="Adityam0208" /></p>
 
