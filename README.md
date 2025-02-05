@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **aditya.vmatt@gmail.com**
 
-- 📄 Know about my experiences https://tinyurl.com/AdityaMattaparthiResume
+<!--- 📄 Know about my experiences https://tinyurl.com/AdityaMattaparthiResume-->
 
 - ⚡ Fun fact **: I have a strong intuition, and I also enjoy playing sports**
 
