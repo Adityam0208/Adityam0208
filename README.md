@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adityam0208](https://github.com/Adityam0208)
 
-- 📫 How to reach me **mattaparthi.a@northeastern.edu**
+- 📫 How to reach me **aditya.vmatt@gmail.com**
 
 - 📄 Know about my experiences https://tinyurl.com/AdityaMattaparthiResume
 
