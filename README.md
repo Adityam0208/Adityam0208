@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **to learn more about Software Quality Control and other ETL Tools**
 
-- 🤝 I’m seeking for opportunities as a **Data Analyst / Data Engineer / Business Analyst**
+<!--- 🤝 I’m seeking for opportunities as a **Data Analyst / Data Engineer / Business Analyst**-->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adityam0208](https://github.com/Adityam0208)
 
